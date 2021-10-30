@@ -1,0 +1,46 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.main-div{
+	width:1300px;
+	height:60px;
+	margin:30px auto;
+}
+.mult-1{
+	width: 295px;
+	min-height: 60px;
+	background:red;	
+	float:left;
+	margin-right:20px;
+	margin-left:12px;
+}
+.mult-text{
+	text-align:center;
+	padding:15px 0px 0px;
+}
+.mult-num{
+	padding:10px 110px;
+}
+.mult-2{
+	width: 295px;
+	min-height: 60px;
+	background:green;	
+	float:left;
+	margin-right:20px;
+}
+.mult-3{
+	width: 295px;
+	min-height: 60px;
+	background:yellow;	
+	float:left;
+	margin-right:20px;
+	
+}
+.mult-4{
+	width: 295px;
+	min-height: 60px;
+	background:pink;	
+	float:left;
+	
+}
